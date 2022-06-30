@@ -1,5 +1,6 @@
-# DDBJ Workflow Registry Browser
+# Workflow browser for pitagora-network/yevis-DAT2-cwl
 
-[![DOI](https://zenodo.org/badge/491369955.svg)](https://zenodo.org/badge/latestdoi/491369955)
+[![DOI](https://zenodo.org/badge/495261899.svg)](https://zenodo.org/badge/latestdoi/495261899)
 
-This registry hosts [Yevis-web](https://github.com/sapporo-wes/yevis-web) for [ddbj/workflow-registry](https://github.com/ddbj/workflow-registry).
+This repository hosts [Yevis-web](https://github.com/ddbj/yevis-web) for [pitagora-network/yevis-DAT2-cwl](https://github.com/pitagora-network/yevis-DAT2-cwl).
+Please see [pitagora-network/yevis-DAT2-cwl](https://github.com/pitagora-network/yevis-DAT2-cwl).
